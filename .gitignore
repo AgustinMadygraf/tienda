@@ -3,7 +3,6 @@
 
 # Ignorar directorios de dependencias y autoload de Composer
 /vendor/
-composer.lock
 
 # Ignorar archivos y directorios de sistema
 .DS_Store
