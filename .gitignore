@@ -1,0 +1,15 @@
+# Ignorar archivos de configuración de entorno
+.env
+
+# Ignorar directorios de dependencias y autoload de Composer
+/vendor/
+composer.lock
+
+# Ignorar archivos y directorios de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar otros archivos específicos de tu entorno
+.idea/             # Para usuarios de PhpStorm/IntelliJ
+*.log              # Archivos de log
+*.bak              # Archivos de respaldo

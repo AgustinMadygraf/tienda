@@ -1,0 +1,17 @@
+{
+    "name": "maq-bolsas/tienda",
+    "autoload": {
+        "psr-4": {
+            "MaqBolsas\\Tienda\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AgustinMadygraf",
+            "email": "agustin.mtto.madygraf@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
